@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **archieshah8767@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qOBpBdFaJtt_NdDyt_wfSo_PSiHOczix/view?usp=drive_link]https://drive.google.com/file/d/1qOBpBdFaJtt_NdDyt_wfSo_PSiHOczix/view?usp=drive_link
+- 📄 Know about my experiences https://drive.google.com/file/d/1qOBpBdFaJtt_NdDyt_wfSo_PSiHOczix/view?usp=drive_link
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
