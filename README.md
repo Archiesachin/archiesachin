@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Archie Shah</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning **Flask**
-
 - 📫 How to reach me **archieshah8767@gmail.com**
 
 - 📄 Know about my experiences **https://archiesachin.github.io/Archie-portfolio/**
